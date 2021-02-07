@@ -1,7 +1,7 @@
 # cwmrc
 cwm emulation of i3wm's default multiple desktop behavior 
 
-win-key + Num to move to a desktop
+win-key + Num : to move to a desktop
 
 win-key + shift + Num : send window to a desktop
 
